@@ -10,3 +10,8 @@ const arrowFunction = (arg1, arg2) => {
   }
 }
 ```
+
+## Check below list:
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
